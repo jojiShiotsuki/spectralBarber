@@ -15,4 +15,5 @@ What I would optimize first is to create a separate page for booking a specific 
 ## Lessons Learned:
 
 Efficient Template Usage: Learning to leverage templates efficiently significantly reduces development time, allowing for a quick and polished website without starting from scratch.
+
 User-Centric Optimization: Recognizing the importance of a dedicated booking system for user convenience and improving the overall functionality of the website.
