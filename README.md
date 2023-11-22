@@ -12,8 +12,20 @@ A fully responsive, beautiful, and modern website for an on-trend full-service b
 
 What I would optimize first is to create a separate page for booking a specific barber and what service they want and display it on a schedule page for them to see which barber and what time they are available.
 
-## Lessons Learned:
+To-Do for Optimizations:
+Booking System Enhancement:
 
-Efficient Template Usage: Learning to leverage templates efficiently significantly reduces development time, allowing for a quick and polished website without starting from scratch.
+Create a dedicated booking page for clients to select a specific barber and service.
+Implement a schedule page to display barber availability.
 
-User-Centric Optimization: Recognizing the importance of a dedicated booking system for user convenience and improving the overall functionality of the website.
+Performance Optimization:
+
+Optimize images and other assets to improve page loading times.
+Consider lazy loading for images to enhance the website's performance.
+
+SEO Improvements:
+
+Add relevant meta tags, descriptions, and alt attributes for better search engine optimization.
+Lessons Learned:
+Efficient Template Usage: Leveraging templates efficiently reduces development time, providing a quick and polished website without starting from scratch.
+User-Centric Optimization: Recognizing the importance of a dedicated booking system for user convenience and planning improvements to enhance overall functionality.
