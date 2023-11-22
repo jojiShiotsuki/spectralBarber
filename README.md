@@ -8,11 +8,7 @@ A fully responsive, beautiful, and modern website for an on-trend full-service b
 ## How It's Made:
 
 **Tech used:** HTML5, CSS3, JavaScript, HTML5UP
-## Optimizations
-
-What I would optimize first is to create a separate page for booking a specific barber and what service they want and display it on a schedule page for them to see which barber and what time they are available.
-
-To-Do for Optimizations:
+## To-DO Optimizations
 
 Booking System Enhancement:
 
@@ -28,7 +24,7 @@ SEO Improvements:
 
 Add relevant meta tags, descriptions, and alt attributes for better search engine optimization.
 
-Lessons Learned:
+## Lesson Learned
 
 Efficient Template Usage: Leveraging templates efficiently reduces development time, providing a quick and polished website without starting from scratch.
 
