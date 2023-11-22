@@ -27,6 +27,9 @@ Consider lazy loading for images to enhance the website's performance.
 SEO Improvements:
 
 Add relevant meta tags, descriptions, and alt attributes for better search engine optimization.
+
 Lessons Learned:
+
 Efficient Template Usage: Leveraging templates efficiently reduces development time, providing a quick and polished website without starting from scratch.
+
 User-Centric Optimization: Recognizing the importance of a dedicated booking system for user convenience and planning improvements to enhance overall functionality.
