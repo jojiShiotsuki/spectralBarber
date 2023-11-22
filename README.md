@@ -1,4 +1,6 @@
 # Spectral Barber
+![image](https://github.com/jojiShiotsuki/spectralBarber/assets/149657863/252c4928-9b84-4b30-a48b-e21d2208470a)
+
 A fully responsive, beautiful, and modern website for an on trend full-service barber.
 
 **Link to project:** https://jojishiotsuki.netlify.app/
