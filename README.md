@@ -13,6 +13,7 @@ A fully responsive, beautiful, and modern website for an on-trend full-service b
 What I would optimize first is to create a separate page for booking a specific barber and what service they want and display it on a schedule page for them to see which barber and what time they are available.
 
 To-Do for Optimizations:
+
 Booking System Enhancement:
 
 Create a dedicated booking page for clients to select a specific barber and service.
